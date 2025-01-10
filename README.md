@@ -14,7 +14,7 @@
 
 <br>
 
-CHECK OUT MY LINKEDIN PROFILE: [Supercharge](https://www.linkedin.com/in/hardik-patel-0b3116287/) ![](hot.gif)
+CHECK OUT MY LINKEDIN PROFILE: [LINKEDIN](https://www.linkedin.com/in/hardik-patel-0b3116287/) ![](hot.gif)
 
 AND CS-IT QUIZ [QUIZ FOR IT PERSON](https://cs-it-quiz.pages.dev) ![](hot.gif)
 
