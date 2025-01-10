@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://drive.google.com/file/d/1Fby_mE0tXRDsMasvObeRFL_d6T8t1amx/view?usp=sharing" alt="welcome to my github profile">
+	<img src="[welcome-header.gif]https://drive.google.com/file/d/1Fby_mE0tXRDsMasvObeRFL_d6T8t1amx/view?usp=sharing" alt="welcome to my github profile">
 	<br>
 	<br>
 </div>
