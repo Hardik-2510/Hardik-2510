@@ -4,7 +4,8 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
+**I LOVE CODING**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
+**❣️ CODING IN THE CORE OF MY HEART ❣️**
 
 <img src="party-furby.gif" align="right" width="60">
 
