@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_2510__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hardik-patel-0b3116287/" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/hardik-patel-0b3116287/" target="blank"><img align="center" width="50" height="50" src="https://img.icons8.com/ios-filled/50/228BE6/facebook-new.png" alt="facebook-new"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
