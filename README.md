@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_2510__" height="30" width="40" /></a>
-<a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hardik_2510__" height="30" width="40" /></a>
+<a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBTGk2elAdJ3ubW6yYWKqi7Es9BmrX2cblw&s" alt="hardik_2510__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
