@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_2510__" height="30" width="40" /></a>
-<a href="https://instagram.com/hardik_2510__" target="blank"><img type="image/png" sizes="96x96" rel="icon" src=".../icons8-linkedin-color-96.png"></a>
+<a href="https://instagram.com/hardik_2510__" target="blank"><img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
