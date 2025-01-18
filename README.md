@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Hardik Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I'm currently working on **Frontend Development**
+👀 I’m interested in **JAVA DEVELOPING**
 
-- 🌱 I'm currently learning **ReactJS**
+🌱 I’m currently learning **COMPUTER ENGINEERING**
 
-- 👯 I'm looking to collaborate on **Backend Development**
+💞️ I’m looking to collaborate on **GitHub**
 
-- 🤝 I'm looking for help with **NodeJS**
+📫 How to reach me **hardik25patel05@gmail.com**
 
-- 💬 Ask me about **HTML , CSS**
+🔗 **Website** : https://sites.google.com/view/simple-java
 
-- 📫 How to reach me **hardik25patel05@gmail.com**
+☎️ +91 6354067037
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_2510__" height="30" width="40" /></a>
-<a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBTGk2elAdJ3ubW6yYWKqi7Es9BmrX2cblw&s" alt="hardik_2510__" height="30" width="40" /></a>
+<a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="" alt="hardik_2510__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
