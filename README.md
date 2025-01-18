@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Patel</h1>
-<h3 align="center"> **CODIN** IN THE CORE OF MY HEART ❣️/h3>
+<h3 align="center">✌🏻 CODING IN THE CORE OF MY HEART ❣️</h3>
 
 👀 I’m interested in **JAVA DEVELOPING**
 
@@ -11,7 +11,7 @@
 
 🔗 **Website** : https://sites.google.com/view/simple-java
 
-☎️ +91 6354067037
+☎️ **+91 6354067037**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
