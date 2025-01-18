@@ -18,7 +18,7 @@
 <a href="https://instagram.com/hardik_2510__" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="hardik_2510__" height="48" width="48" /></a>
 <a href="https://www.linkedin.com/in/hardik-patel-0b3116287/" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.facebook.com/profile.php?id=100089838506031" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/ios-filled/50/228BE6/facebook-circled--v1.png" alt="facebook-circled--v1"/></a>
-<a href="https://api.whatsapp.com/send?phone=916354067037&text=Hi%20%2C%20I%20am%20%22Your%20Name%22" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/24/external-Whatsapp-social-media-tanah-basah-basic-outline-tanah-basah.png" alt="facebook-circled--v1"/></a>
+<a href="https://api.whatsapp.com/send?phone=916354067037&text=Hi%20%2C%20I%20am%20%22Your%20Name%22" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="facebook-circled--v1"/></a>
 </p>
 
 <p align="left"> 
