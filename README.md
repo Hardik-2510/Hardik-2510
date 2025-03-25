@@ -9,7 +9,7 @@
 <p>📫 How to reach me: <strong>hardik25patel05@gmail.com</strong></p>
 
 <!-- Website and Contact Information -->
-<p>🔗 <strong>Website</strong>: <a href="https://sites.google.com/view/simple-java" target="_blank">Visit Here</a></p>
+<p>🔗 <strong>Portfolio</strong>: <a href="https://developer-hardik.pages.dev/" target="_blank">Visit Here</a></p>
 <p>☎️ <strong>+91 6354067037</strong></p>
 
 <!-- Social Media Links -->
