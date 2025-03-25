@@ -6,10 +6,10 @@
 <p>👀 I’m interested in <strong>WEB DEVELOPING</strong></p>
 <p>🌱 I’m currently pursuing <strong>COMPUTER ENGINEERING</strong></p>
 <p>💞️ I’m open to collaborate on <strong>GitHub</strong></p>
-<p>📫 How to contact me: <strong>hardik25patel05@gmail.com</strong></p>
 
 <!-- Website and Contact Information -->
-<p>🔗 <strong>Portfolio</strong>: <a href="https://developer-hardik.pages.dev/" target="_blank">Visit Here</a></p>
+<p>🔗 <a href="https://developer-hardik.pages.dev/" target="_blank" style="text-decoration:none;color:white;"><strong>Portfolio</strong></a></p>
+<p>📫 Contact me: <strong>hardik25patel05@gmail.com</strong></p>
 <p>☎️ <strong>+91 6354067037</strong></p>
 
 <!-- Social Media Links -->
