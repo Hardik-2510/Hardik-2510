@@ -6,7 +6,7 @@
 <p>👀 I’m interested in <strong>WEB DEVELOPING</strong></p>
 <p>🌱 I’m currently pursuing <strong>COMPUTER ENGINEERING</strong></p>
 <p>💞️ I’m open to collaborate on <strong>GitHub</strong></p>
-<p>📫 How to reach me: <strong>hardik25patel05@gmail.com</strong></p>
+<p>📫 How to contact me: <strong>hardik25patel05@gmail.com</strong></p>
 
 <!-- Website and Contact Information -->
 <p>🔗 <strong>Portfolio</strong>: <a href="https://developer-hardik.pages.dev/" target="_blank">Visit Here</a></p>
