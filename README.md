@@ -3,9 +3,9 @@
 <h3 align="center">✌🏻 CODING IN THE CORE OF MY HEART ❣️</h3>
 
 <!-- Personal Details -->
-<p>👀 I’m interested in <strong>JAVA DEVELOPING</strong></p>
-<p>🌱 I’m currently learning <strong>COMPUTER ENGINEERING</strong></p>
-<p>💞️ I’m looking to collaborate on <strong>GitHub</strong></p>
+<p>👀 I’m interested in <strong>WEB DEVELOPING</strong></p>
+<p>🌱 I’m currently pursuing <strong>COMPUTER ENGINEERING</strong></p>
+<p>💞️ I’m open to collaborate on <strong>GitHub</strong></p>
 <p>📫 How to reach me: <strong>hardik25patel05@gmail.com</strong></p>
 
 <!-- Website and Contact Information -->
