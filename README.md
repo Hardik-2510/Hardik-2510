@@ -59,6 +59,14 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
     </a>
+  <!-- C# Language -->
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="C" width="40" height="40" />
+    </a>
+   <!-- DotNet Framework -->
+    <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="C" width="40" height="40" />
+    </a>
     <!-- CSS3 -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
