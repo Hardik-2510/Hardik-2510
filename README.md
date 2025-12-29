@@ -1,16 +1,31 @@
 <!-- Title and Introduction -->
 <h1 align="center">Hi 👋, I'm Hardik Patel</h1>
-<h3 align="center">✌🏻 CODING IN THE CORE OF MY HEART ❣️</h3>
+<h3 align="center">🚀 Turning Ideas into Real-World Applications</h3>
 
-<!-- Personal Details -->
-<p>👀 I’m interested in <strong>WEB DEVELOPING</strong></p>
-<p>🌱 I’m currently pursuing <strong>COMPUTER ENGINEERING</strong></p>
-<p>💞️ I’m open to collaborate on <strong>GitHub</strong></p>
+<!-- About Me -->
+<p>🎓 Third-Year <strong>Computer Engineering</strong> Student</p>
+<p>💻 Interested in <strong>Android, Web & .NET Application Development</strong></p>
+<p>🧠 Passionate about <strong>problem-solving, innovation, and learning by building</strong></p>
+
+<!-- Skills Snapshot -->
+<p>🛠️ Tech Stack:</p>
+<ul>
+  <li><strong>Languages:</strong> C, C++, Java, Python, VB.NET, JavaScript</li>
+  <li><strong>Development:</strong> Android Development, Web Development, .NET Desktop Apps</li>
+  <li><strong>Databases:</strong> SQL Server, MongoDB, SQLite</li>
+  <li><strong>Tools:</strong> Visual Studio, Android Studio, Git, Docker, Node.js</li>
+</ul>
+
+<!-- Collaboration -->
+<p>🤝 Open to collaborate on <strong>GitHub projects, internships, and learning-based initiatives</strong></p>
 
 <!-- Website and Contact Information -->
-<p>🔗 <a href="https://developer-hardik.pages.dev/" target="_blank" style="text-decoration:none;color:white;"><strong>Portfolio</strong></a></p>
-<p>📫 Contact me: <strong>hardik25patel05@gmail.com</strong></p>
-<p>☎️ <strong>+91 6354067037</strong></p>
+<p>🔗 <a href="https://developer-hardik.pages.dev/" target="_blank"><strong>Portfolio</strong></a></p>
+<p>📫 Reach me at: <strong>hardik25patel05@gmail.com</strong></p>
+
+<!-- Closing Line -->
+<p>✨ Always curious. Always learning. Always building.</p>
+
 
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
