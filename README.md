@@ -28,7 +28,7 @@
 
 
 <!-- Social Media Links -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me :</h3>
 <p align="left">
     <!-- Instagram -->
     <a href="https://instagram.com/hardik_2510__" target="_blank">
