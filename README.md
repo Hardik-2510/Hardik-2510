@@ -77,10 +77,9 @@ I'm a final-year Computer Engineering student who builds rather than just studie
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hardik-2510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=4F46E5&text_color=ffffff" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-2510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff" height="160" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik-2510&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardik-2510&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardik-2510&theme=tokyonight" height="160" />
 </div>
 
 <div align="center">
