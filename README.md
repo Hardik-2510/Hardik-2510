@@ -77,14 +77,15 @@ I'm a final-year Computer Engineering student who builds rather than just studie
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik-2510&theme=tokyonight" width="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardik-2510&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardik-2510&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik-2510&theme=nord_dark" width="100%" />
 </div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik-2510&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=4F46E5&currStreakLabel=ffffff)
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardik-2510&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=4F46E5&currStreakLabel=ffffff)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardik-2510&theme=nord_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardik-2510&theme=nord_dark" height="160" />
 
 </div>
 
