@@ -33,7 +33,7 @@ location   : Surat, Gujarat 🇮🇳
 degree     : B.Tech Computer Engineering @ Uka Tarsadia University (2023–Present)
 focus      : Web Development · Shopify Apps · .NET Desktop Apps
 interests  : UI/UX · Problem Solving · Open Source · Innovation
-status     : Open to internships & collaborations
+status     : Intern at Inkey IT Solutions 
 ```
 
 I'm a final-year Computer Engineering student who builds rather than just studies. From VB.NET desktop tools to full-stack Shopify apps, I love taking ideas from zero to shipped. Currently building **Swatchify** — a Shopify app for product variant swatches and storefront filtering.
