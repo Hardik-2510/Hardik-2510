@@ -29,7 +29,7 @@ I'm a final-year Computer Engineering student and Software Developer passionate 
 
 - 🎓 **Education:** B.Tech in Computer Engineering @ Uka Tarsadia University (2023 – Present)
 - 💼 **Currently:** Intern @ InKey IT Solutions
-- 🚀 **Building:** Swatchify – A Shopify app for product variant swatches and storefront filtering
+- 🚀 **Experience:** Working with Varify – Product Options & Variant, a live Shopify App Store product
 - 🎯 **Focus:** C# · .NET · Web Development · Shopify · Data Analytics
 - 💡 **Interests:** Software Architecture · UI/UX · Problem Solving · AI/ML
 - 📍 **Location:** Surat, Gujarat, India 🇮🇳
@@ -44,7 +44,7 @@ Projects that showcase my work across software engineering, product development,
 | :-- | :-- | :-- |
 | **Insight** | A data analytics platform featuring dataset management, CSV parsing, data cleaning, and configurable data transformation workflows. | C# · ASP.NET Core · SQL |
 | **Grand Stay** | A desktop-based hotel management system with room management, reservations, guest operations, check-in/out, billing, and reporting. | C# · WinForms · SQL Server |
-| **Swatchify** | A Shopify application designed to improve product discovery through interactive product variant swatches and storefront filtering. | Shopify · React |
+| [**Varify – Product Options & Variant**](https://apps.shopify.com/varify-product-options-variant) | A real-world Shopify App Store product designed to help merchants enhance product customization and improve storefront shopping experiences through product options and variant selection. | Shopify · React · JavaScript |
 | **Eye C.A.R.E.** | An AI-powered diabetic retinopathy screening initiative focused on supporting early detection in rural communities using explainable AI. | Python · PyTorch · MATLAB |
 
 ---
@@ -101,9 +101,13 @@ Projects that showcase my work across software engineering, product development,
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik-2510&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub profile contribution details" />
-<br/>
+
+  <br/>
+
   <img src="https://streak-stats.demolab.com/?user=hardik-2510&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=4F46E5&currStreakLabel=ffffff" alt="GitHub contribution streak" />
-<br/>
+
+  <br/>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardik-2510&theme=nord_dark" height="160" alt="GitHub statistics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardik-2510&theme=nord_dark" height="160" alt="Most used programming languages" />
 
