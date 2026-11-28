@@ -100,7 +100,7 @@ Projects that showcase my work across software engineering, product development,
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardik-2510&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub profile contribution details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik-2510&theme=nord_dark" width="100%" alt="GitHub profile contribution details" />
 
   <br/>
 
